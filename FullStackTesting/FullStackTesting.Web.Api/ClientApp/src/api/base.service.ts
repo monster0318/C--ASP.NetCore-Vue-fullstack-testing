@@ -1,6 +1,7 @@
 ﻿import axios, { AxiosInstance, AxiosResponse, AxiosError } from "axios";
 import { alertAxiosError } from "@/utils";
 
+
 /**
  * Service API base class
  * 1: Configure axios instance
